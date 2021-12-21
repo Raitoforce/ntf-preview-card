@@ -38,7 +38,7 @@ Users should be able to:
 
 ## My process
 
-I wrote first my html structure whith BEM methodoly to keep it ordered. At the end I only wrote my css BEM classes. Maybe i did some changes on my html structure because I noticed that ::after dont work with <img>, so I added a wrapper to my img.
+I wrote first my html structure whith BEM methodoly to keep it ordered. At the end I only wrote my css BEM classes. Maybe i did some changes on my html structure because I noticed that ::after dont work with img, so I added a wrapper to it.
 
 ### Built with
 
